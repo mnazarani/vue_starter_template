@@ -20,7 +20,7 @@
     [multiple],
     textarea,
     select {
-        @apply border-gray-300 rounded-lg 
+        @apply w-1/2 mb-2 placeholder-gray-400 placeholder-opacity-50 border-gray-300 rounded-lg 
         shadow-sm focus:border-green-500 focus:ring-green-500
     }
     [type='checkbox'],
